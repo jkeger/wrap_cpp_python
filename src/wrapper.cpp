@@ -5,6 +5,6 @@
 
 using namespace boost::python;
 
-BOOST_PYTHON_MODULE(wrapper) {
+BOOST_PYTHON_MODULE(libwrapper) {
     def("hello_world", hello_world);
 }

@@ -1,4 +1,4 @@
 
-import wrapper
+import libwrapper
 
-print("Python: %s!" % wrapper.hello_world())
+print("Python: %s!" % libwrapper.hello_world())
